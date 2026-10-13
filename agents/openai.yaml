@@ -1,0 +1,4 @@
+interface:
+  display_name: "Q Graph · 简洁阅读界面"
+  short_description: "复用已确认的阅读优先布局、克制控件与连点 SVG 图标语言"
+  default_prompt: "使用 $qgraph-calm-ui 设计或调整这个界面，保持内容优先的布局和连点图标语言。"
